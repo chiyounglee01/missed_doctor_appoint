@@ -1,2 +1,3 @@
 # missed_doctor_appoint
-ipynb, xlsx, csv files for Missed Doctor Appointment Data Analysis Project.
+Analysis of a 2016 Brazilian Healthcare Dataset with 110526 entries.
+The Numpy, Pandas, Matplotlib, Seaborn libraries of Python were used for this analysis. 
